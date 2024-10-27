@@ -1,0 +1,8 @@
+Project/Listings
+Project/Objects
+Project/*.uvguix.*
+
+*.orig
+*.xlsx
+*.csv
+*.txt
